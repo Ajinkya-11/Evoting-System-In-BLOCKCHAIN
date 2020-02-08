@@ -17,4 +17,9 @@ Go to truffle console and type command.<br>
 "npm run dev"<br> 
 <br>
 PLEASE NOTE:<br>
-Names used in the model are just for testing and no biased behaviour is promoted.<br>
+Names used in the model are just for testing and no biased behaviour is promoted.<br><br><br>
+CONTRIBUTORS:<br>
+Khushboo Galrani<br>
+Ajinkya Jadhav<br>
+Yash Mehta<br>
+Sarvesh Pande<br>
